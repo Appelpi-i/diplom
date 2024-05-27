@@ -307,3 +307,9 @@ input, textarea, select, label {
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px rgba(255, 255, 255, 0.2), 0 0 0 4px #eef7f9;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px rgba(255, 255, 255, 0.2), 0 0 0 4px #eef7f9;
 }
+p {
+font-family: Impact, sans-serif;
+color: #DC143C;
+  text-shadow: 5px 5px 5px;
+  box-shadow: 5px 5px 5px
+}
